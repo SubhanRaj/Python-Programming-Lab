@@ -49,7 +49,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Usages</a></li>
+        <li><a href="#installation">Running a Program</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
