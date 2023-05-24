@@ -1,15 +1,6 @@
 
 <a name="readme-top"></a>
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -33,7 +24,6 @@
     <br />
     <a href="https://github.com/SubhanRaj/Python-Programming-Lab"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
     <a href="https://github.com/SubhanRaj/Python-Programming-Lab">View Demo</a>
     ·
     <a href="https://github.com/SubhanRaj/Python-Programming-Lab/issues">Report Bug</a>
@@ -51,7 +41,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#list-of-programs">List of Programs</a><li>
+        <li><a href="#list-of-programs">List of Programs</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -59,7 +49,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#installation">Usages</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
