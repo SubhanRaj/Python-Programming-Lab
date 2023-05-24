@@ -196,4 +196,4 @@ Project Link: [https://github.com/SubhanRaj/Python-Programming-Lab](https://gith
 [linkedin-url]: https://linkedin.com/in/subhanraj2002/
 [product-screenshot]: images/screenshot.png
 [Python]: https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white
-[Python-url]: https://.python.org/
+[Python-url]: https://python.org/
