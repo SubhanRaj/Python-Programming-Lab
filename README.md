@@ -22,8 +22,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://raw.githubusercontent.com/SahilAli8808/kmclu-placement-cell/main/assets/img/logo.webp">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/kmclu">
+    <img src="https://raw.githubusercontent.com/SahilAli8808/kmclu-placement-cell/main/assets/img/logo.webp" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Python Programming Lab</h3>
