@@ -91,6 +91,8 @@ All Programs of Python Programming Lab (CS-653) as per Syllabus of B.Tech in Com
 7. [Program to implement sequential search in Python.](sequentialSearch.py): 
 8. [Program to implement a stack data structure in Python.](stack.py): 
 9. [Program to demonstrate the usage of string functions in Python.](stringFunctions.py): 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ### Built With
 
 * [![Python][Python]][Python-url]
@@ -146,7 +148,7 @@ This repo was made for Implementation of all the programs of Python Programming 
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
