@@ -193,7 +193,7 @@ Project Link: [https://github.com/SubhanRaj/Python-Programming-Lab](https://gith
 [license-shield]: https://img.shields.io/github/license/SubhanRaj/Python-Programming-Lab.svg?style=for-the-badge
 [license-url]: https://github.com/SubhanRaj/Python-Programming-Lab/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/in/subhanraj2002/
+[linkedin-url]: https://linkedin.com/in/subhanraj2002/
 [product-screenshot]: images/screenshot.png
 [Python]: https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white
 [Python-url]: https://.python.org/
