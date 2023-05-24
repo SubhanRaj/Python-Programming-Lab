@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://raw.githubusercontent.com/SahilAli8808/kmclu-placement-cell/dev/assets/img/logo.png">
+  <a href="https://github.com/SahilAli8808/kmclu-placement-cell/blob/dev/assets/img/logo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
