@@ -71,15 +71,15 @@ All Programs of Python Programming Lab (CS-653) as per Syllabus of B.Tech in Com
 <!-- List of Programs -->
 ## List of Programs
 
-1. [Program to demonstrate the usage of dictionaries in Python.](dictionary.py): 
-2. [Program to perform read and write operations on files in Python.](fileOperations.py): 
-3. [Program to demonstrate the usage of lists in Python.](list.py): 
-4. [Program to demonstrate the usage of regular expressions in Python.](regex.py): 
-5. [Program to implement the selection sort algorithm in Python.](selectionSort.py): 
-6. [Program to implement a simple calculator in Python.](simpleCalculator.py): 
-7. [Program to implement sequential search in Python.](sequentialSearch.py): 
-8. [Program to implement a stack data structure in Python.](stack.py): 
-9. [Program to demonstrate the usage of string functions in Python.](stringFunctions.py): 
+1. [Program to demonstrate the usage of dictionaries in Python.](dictionary.py) 
+2. [Program to perform read and write operations on files in Python.](fileOperations.py) 
+3. [Program to demonstrate the usage of lists in Python.](list.py) 
+4. [Program to demonstrate the usage of regular expressions in Python.](regex.py) 
+5. [Program to implement the selection sort algorithm in Python.](selectionSort.py) 
+6. [Program to implement a simple calculator in Python.](simpleCalculator.py) 
+7. [Program to implement sequential search in Python.](sequentialSearch.py) 
+8. [Program to implement a stack data structure in Python.](stack.py) 
+9. [Program to demonstrate the usage of string functions in Python.](stringFunctions.py) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
