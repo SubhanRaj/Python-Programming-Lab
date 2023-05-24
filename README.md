@@ -62,11 +62,10 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#roadmap">List of Programs</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -74,8 +73,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 All Programs of Python Programming Lab (CS-653) as per Syllabus of B.Tech in Computer Science Engineering at Khwaja Moinuddin Chishti Language University @kmclu
 
@@ -94,32 +91,35 @@ All Programs of Python Programming Lab (CS-653) as per Syllabus of B.Tech in Com
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To run all the programs in this repo, you can follow the steps below.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+All you need is to have Latest Version of Python installed on your system. You can download it from [here](https://www.python.org/downloads/)
 
-### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+### Running the Programs
+
+1. Clone the repo
    ```sh
    git clone https://github.com/SubhanRaj/Python-Programming-Lab.git
    ```
-3. Install NPM packages
+2.  Change the directory
+    ```sh
+    cd Python-Programming-Lab
+    ```
+2. Open the folder in your favourite IDE or Editor, for example VS Code
    ```sh
-   npm install
+   code .
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+3. Run the programs using the following command
+   ```sh
+    python3 <filename>.py
+    ```
+    For example, if you want to run the program of `list.py`, then you can run it using the following command
+    ```sh
+    python3 list.py
+    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,23 +128,26 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This repo was made for Implementation of all the programs of Python Programming Lab (CS-653) as per Syllabus of B.Tech in Computer Science Engineering at Khwaja Moinuddin Chishti Language University, Lucknow.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## List of Programs
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+1. [Program to demonstrate the usage of dictionaries in Python.](dictionary.py): 
+2. [Program to perform read and write operations on files in Python.](fileOperations.py): 
+3. [Program to demonstrate the usage of lists in Python.](list.py): 
+4. [Program to demonstrate the usage of regular expressions in Python.](regex.py): 
+5. [Program to implement the selection sort algorithm in Python.](selectionSort.py): 
+6. [Program to implement a simple calculator in Python.](simpleCalculator.py): 
+7. [Program to implement sequential search in Python.](sequentialSearch.py): 
+8. [Program to implement a stack data structure in Python.](stack.py): 
+9. [Program to demonstrate the usage of string functions in Python.](stringFunctions.py): 
 
-See the [open issues](https://github.com/SubhanRaj/Python-Programming-Lab/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,17 +186,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Your Name - [@SubhanRaj2002](https://twitter.com/SubhanRaj2002) - shubhanraj2002@gmail.com
 
 Project Link: [https://github.com/SubhanRaj/Python-Programming-Lab](https://github.com/SubhanRaj/Python-Programming-Lab)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
