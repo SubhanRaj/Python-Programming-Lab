@@ -51,6 +51,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+      <li><a href="#list-of-programs">List of Programs</a><li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -62,7 +63,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">List of Programs</a></li>
+    
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -78,8 +79,18 @@ All Programs of Python Programming Lab (CS-653) as per Syllabus of B.Tech in Com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- List of Programs -->
+## List of Programs
 
-
+1. [Program to demonstrate the usage of dictionaries in Python.](dictionary.py): 
+2. [Program to perform read and write operations on files in Python.](fileOperations.py): 
+3. [Program to demonstrate the usage of lists in Python.](list.py): 
+4. [Program to demonstrate the usage of regular expressions in Python.](regex.py): 
+5. [Program to implement the selection sort algorithm in Python.](selectionSort.py): 
+6. [Program to implement a simple calculator in Python.](simpleCalculator.py): 
+7. [Program to implement sequential search in Python.](sequentialSearch.py): 
+8. [Program to implement a stack data structure in Python.](stack.py): 
+9. [Program to demonstrate the usage of string functions in Python.](stringFunctions.py): 
 ### Built With
 
 * [![Python][Python]][Python-url]
@@ -133,20 +144,6 @@ This repo was made for Implementation of all the programs of Python Programming 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP -->
-## List of Programs
-
-1. [Program to demonstrate the usage of dictionaries in Python.](dictionary.py): 
-2. [Program to perform read and write operations on files in Python.](fileOperations.py): 
-3. [Program to demonstrate the usage of lists in Python.](list.py): 
-4. [Program to demonstrate the usage of regular expressions in Python.](regex.py): 
-5. [Program to implement the selection sort algorithm in Python.](selectionSort.py): 
-6. [Program to implement a simple calculator in Python.](simpleCalculator.py): 
-7. [Program to implement sequential search in Python.](sequentialSearch.py): 
-8. [Program to implement a stack data structure in Python.](stack.py): 
-9. [Program to demonstrate the usage of string functions in Python.](stringFunctions.py): 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
