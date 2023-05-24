@@ -77,7 +77,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `SubhanRaj`, `Python-Programming-Lab`, `SubhanRaj2002`, `in/subhanraj2002/`, `gmail.com`, `email`, `Python Programming Lab`, `All Programs of Python Programming Lab (CS-653) as per Syllabus of B.Tech in Computer Science Engineering at Khwaja Moinuddin Chishti Language University`
+All Programs of Python Programming Lab (CS-653) as per Syllabus of B.Tech in Computer Science Engineering at Khwaja Moinuddin Chishti Language University @kmclu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
